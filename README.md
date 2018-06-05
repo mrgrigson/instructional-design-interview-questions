@@ -39,6 +39,11 @@ This file contains a number of instructional design questions that you can use t
 * What is the most common instructional design flaw you have seen in courses you’ve reviewed?
 * What quality evaluation models have you found to be most effective in Instructional Design?
 * What educational theories do you subscribe to?
+* What is a technology that you're working with that you're excited about?
+* What is a technology that you're not working with that you'd like to?
+* Can you speak to what you're doing as far as developing the instructional designer community at large?
+* How would you deal with a faculty member who didn't want to make changes you suggest?
+* How do you keep up to date on new instructional technologies?
 
 ## Corporate Questions
 * How do you handle challenging your eLearning team members or subject matter experts?
@@ -46,6 +51,7 @@ This file contains a number of instructional design questions that you can use t
 * Do you think that creativity or efficiency is more important?
 * What kind of quantitative and qualitative data do you use in designing training?
 * Are you comfortable teaching yourself enterprise software in order to create elearning?
+* How would you describe your writing style?
 
 ## Questions and Specific Answers
 This set of questions was contributed by user DontMakeMeClickNext on the [instructional design subreddit](https://www.reddit.com/r/instructionaldesign/comments/8k6x9j/potential_interview_questions_and_answers_for_id/). This set includes questions and expectations about what good answers would include.
